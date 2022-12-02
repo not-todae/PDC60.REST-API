@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC60.REST-API.Android", "PDC60.REST-API\PDC60.REST-API.Android\PDC60.REST-API.Android.csproj", "{E9860E91-92C6-4C4D-B851-E2BF00A82C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC60.REST-API", "PDC60.REST-API\PDC60.REST-API\PDC60.REST-API.csproj", "{7D680F8F-180E-4DE1-8FF1-2884622661A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9860E91-92C6-4C4D-B851-E2BF00A82C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9860E91-92C6-4C4D-B851-E2BF00A82C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9860E91-92C6-4C4D-B851-E2BF00A82C0C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E9860E91-92C6-4C4D-B851-E2BF00A82C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9860E91-92C6-4C4D-B851-E2BF00A82C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9860E91-92C6-4C4D-B851-E2BF00A82C0C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7D680F8F-180E-4DE1-8FF1-2884622661A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D680F8F-180E-4DE1-8FF1-2884622661A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D680F8F-180E-4DE1-8FF1-2884622661A8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7D680F8F-180E-4DE1-8FF1-2884622661A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D680F8F-180E-4DE1-8FF1-2884622661A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D680F8F-180E-4DE1-8FF1-2884622661A8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8E48D1-AF19-4348-A6EF-B7C83909DA94}
+	EndGlobalSection
+EndGlobal
